@@ -1,0 +1,12 @@
+name: waterquality-internationalapp
+title: WaterQuality-internationalApp
+username:
+account: shuanglibao
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 242235
+bundleId: 1106847
+url: https://shuanglibao.shinyapps.io/waterquality-internationalapp/
+when: 1512064507.31784
+asMultiple: FALSE
+asStatic: FALSE
